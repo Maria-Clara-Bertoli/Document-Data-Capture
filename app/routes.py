@@ -32,8 +32,6 @@ async def delete_database_information() -> JSONResponse:
     database_usecase.calls_database_resources()
     return Response(status_code=status.HTTP_204_NO_CONTENT)
 
-# Precisa ainda de testes unitários, comentários
-
 
 
     
