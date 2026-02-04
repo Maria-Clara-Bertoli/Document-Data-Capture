@@ -1,0 +1,5 @@
+dir_path: ../essay/documents/
+database_name: mongo_database
+collection_name: mongo_collection
+mongo_uri: mongodb://localhost:27017/
+database_path: ./essay/databases/langchain_database.db
