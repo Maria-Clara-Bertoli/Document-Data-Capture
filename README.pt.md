@@ -10,7 +10,7 @@ Ler documentos em formato PDF do banco de dados relacional **MongoDB**; extrair 
 
 ### 1️⃣ Configurar a API do Google
 
-Gere uma chave API do Google no site [Google AI Studio](https://aistudio.google.com/app/api-keys) e substitua na variável `GOOGLE_API_KEY` no arquivo `.env`
+Gere uma chave API do Google no site [Google AI Studio](https://aistudio.google.com/app/api-keys) e substitua na variável `GOOGLE_API_KEY` no arquivo `.env`.
 
 ### 2️⃣ Clonar o Repositório
 
@@ -28,7 +28,7 @@ docker compose up --build
 
 ### 4️⃣ Adicionar Documentos PDF
 
-Insira arquivos em formato PDF no diretório `./essay/documents/`
+Insira arquivos em formato PDF no diretório `./essay/documents/`.
 
 > ℹ️ Este repositório traz dois exemplos incluídos.
 
@@ -54,4 +54,5 @@ O arquivo `essay.ipynb` presente no diretório `./essay/` contém exemplos de co
 
 ## 📂 Estrutura de Diretórios
 
-...
+Será incluída em breve.
+
