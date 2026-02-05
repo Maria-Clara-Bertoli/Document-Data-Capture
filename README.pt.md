@@ -60,4 +60,5 @@ O arquivo `essay.ipynb` localizado no diretório `./essay/` contém exemplos de 
 
 ## ✅ Observações
 
-Testes unitários serão adicioados em breve.
+Testes unitários serão adicionados em breve.
+
