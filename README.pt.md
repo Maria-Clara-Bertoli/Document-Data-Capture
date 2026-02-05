@@ -1,6 +1,6 @@
 # 📋 Captura de Dados de Documentos
 
-🤖 Este repositório contém a implementação de um agente em um microsserviço baseado na arquitetura de uma API REST. O projeto foi concebido, majoritariamente, pelos frameworks Langchain e FastAPI. Os seguintes recursos são disponibilizados pela aplicação:
+🤖 Este repositório contém a implementação de um agente em um microsserviço baseado na arquitetura de uma API REST. O projeto foi concebido, majoritariamente, pelos frameworks LangChain e FastAPI. Os seguintes recursos são disponibilizados pela aplicação:
 
 🧑‍💻 Ler documentos PDF do banco de dados não relacional **MongoDB**; extrair dados de tabelas presentes nestes documentos; inserir estes dados no banco de dados relacional **SQLite**; consultar dados no banco de dados relacional de acordo com as solicitações do usuário.
 
@@ -12,11 +12,11 @@
 
 ## 🧰 Tecnologias Utilizadas
 
-- Mongo 🗄️
 - Python 🐍
-- SQLite 🗃️  
 - FastAPI 👩‍💻
-- Langchain 🦜
+- MongoDB 🗄️
+- SQLite 🗃️  
+- LangChain 🦜
 
 ## 💻 Como Usar a Aplicação
 
@@ -61,4 +61,5 @@ O arquivo `essay.ipynb` localizado no diretório `./essay/` contém exemplos de 
 ## ✅ Observações
 
 Testes unitários serão adicionados em breve.
+
 
