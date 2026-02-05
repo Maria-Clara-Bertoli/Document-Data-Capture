@@ -13,9 +13,9 @@
 ## 🧰 Technologies Used
 
 - Python 🐍
+- FastAPI 👩‍💻
 - SQLite 🗃️
 - MongoDB 🗄️
-- FastAPI 👩‍💻
 - LangChain 🦜
 
 ## 💻 How to Use the Application
@@ -67,4 +67,5 @@ The `essay.ipynb` file located in the `./essay/` directory contains examples of 
 ## ✅ Observations
 
 Unit tests will be added soon.
+
 
