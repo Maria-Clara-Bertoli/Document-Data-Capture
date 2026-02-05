@@ -63,9 +63,3 @@ Access Swagger at [http://localhost:80/docs](http://localhost:80/docs) and test 
 ## ✨ Usage Examples
 
 The `essay.ipynb` file located in the `./essay/` directory contains examples of how to interact with the agent.
-
-## 📂 Directory Structure
-
-Will be included soon.
-
-
