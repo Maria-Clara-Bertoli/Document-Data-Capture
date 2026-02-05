@@ -1,6 +1,6 @@
 # 📋 Document Data Capture
 
-🤖 This repository contains the implementation of an agent in a microservice based on REST API architecture capable of:
+🤖 This repository contains the implementation of an agent in a microservice based on a REST API architecture. The project was designed primarily using the Langchain and FastAPI frameworks. The following resources are available in the application:
 
 🧑‍💻 Reading PDF documents from the **MongoDB** non-relational database; extracting data from tables present in these documents; inserting this data into the **SQLite** relational database; querying data in the relational database according to user requests.
 
@@ -63,3 +63,4 @@ Access Swagger at [http://localhost:80/docs](http://localhost:80/docs) and test 
 ## ✨ Usage Examples
 
 The `essay.ipynb` file located in the `./essay/` directory contains examples of how to interact with the agent.
+
