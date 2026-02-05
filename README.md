@@ -2,7 +2,7 @@
 
 🤖 This repository contains the implementation of an agent in a microservice based on REST API architecture capable of:
 
-🧑‍💻 Reading PDF documents from the **MongoDB** relational database; extracting data from tables present in these documents; inserting this data into the **SQLite** non-relational database; querying data in the database according to user requests.
+🧑‍💻 Reading PDF documents from the **MongoDB** non-relational database; extracting data from tables present in these documents; inserting this data into the **SQLite** relational database; querying data in the relational database according to user requests.
 
 ## 🛣️ Application Routes
 
@@ -67,4 +67,5 @@ The `essay.ipynb` file located in the `./essay/` directory contains examples of 
 ## 📂 Directory Structure
 
 Will be included soon.
+
 
