@@ -1,10 +1,22 @@
-# Document Data Capture
+# 📋 Document Data Capture
 
-## 📋 Brief Description
+🤖 This repository contains the implementation of an agent in a microservice based on REST API architecture capable of:
 
-This repository contains the implementation of an agent in a microservice based on REST API architecture capable of:
+🧑‍💻 Reading PDF documents from the **MongoDB** relational database; extracting data from tables present in these documents; inserting this data into the **SQLite** non-relational database; querying data in the database according to user requests.
 
-Reading PDF documents from the **MongoDB** relational database; extracting data from tables present in these documents; inserting this data into the **SQLite** non-relational database; querying data in the database according to user requests.
+## 🛣️ Application Routes
+
+**/delete_database_information**: Responsible for deleting the SQLite database;
+
+**/talk_to_the_agent**: Responsible for extracting data from tables found in PDF documents, as well as inserting and querying tables in the SQLite database.
+
+## 🧰 Technologies Used
+
+- Mongo 🗄️
+- Python 🐍
+- SQLite 🗃️  
+- FastAPI 👩‍💻
+- Langchain 🦜
 
 ## 💻 How to Use the Application
 
@@ -55,3 +67,4 @@ The `essay.ipynb` file located in the `./essay/` directory contains examples of 
 ## 📂 Directory Structure
 
 Will be included soon.
+
